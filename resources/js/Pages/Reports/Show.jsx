@@ -242,7 +242,7 @@ export default function ReportShow({ auth, report }) {
                         </div>
                     ) : (
                         <div className="p-4 bg-red-900/10 border-t border-red-900/20 text-center text-red-500/80 text-sm font-medium">
-                            Thread ini telah dikunci karena laporan sudah diputuskan. LFG
+                            Thread ini telah dikunci karena laporan sudah diputuskan. Cek selalu discord untuk mengetahui apakah ada report terbaru atau tidak
                         </div>
                     )}
                 </div>
